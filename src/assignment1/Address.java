@@ -14,6 +14,7 @@ Lab Section: 312
 /**
  * This class represents the address for a patient. 
  * 
+ * 
  */
 public class Address {
 
